@@ -1,0 +1,5 @@
+Assumptions made for this project:
+1. Tesseract OCR is installed and properly set up on the system.
+2. The images provided for text extraction are clear and have readable text.
+3. The script is intended to be run in an environment where Python 3.8 or above is installed.
+4. pytesseract and Pillow (PIL fork) Python libraries are required and can be installed via the requirements.txt file.
